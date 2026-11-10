@@ -4,7 +4,7 @@ A step-by-step **Retrieval-Augmented Generation (RAG)** project built with **Lan
 It answers customer questions about a fictional coffee company (*BrewBean Coffee Co.*) using its company handbook PDF (dummy data).
 
 ## RAG phases
-**1. Indexing (once):** PDF → `PyMuPDFLoader` → `RecursiveCharacterTextSplitter` (1000 / 200) → OpenAI embeddings (`text-embedding-3-small`, 1024 dims) → Pinecone index
+**1. Indexing (once):** PDF → `PyMuPDFLoader` → `RecursiveCharacterTextSplitter` (1000 / 200) → OpenAI embeddings (`text-embedding-3-small`, 1024 dims) → Pinecone (index `ahmad`, namespace `brewbean`)
 
 **2. Retrieval (every question):** question → retriever (top-3 chunks) → `format_docs` → prompt (instructions + context + question) → `gpt-4.1-mini` → answer
 
