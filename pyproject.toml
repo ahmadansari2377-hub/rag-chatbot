@@ -1,0 +1,15 @@
+[project]
+name = "rag-brewbean"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "langchain>=1.4.9",
+    "langchain-community>=0.4.2",
+    "langchain-openai>=1.7.4",
+    "langchain-pinecone>=0.2.13",
+    "langchain-text-splitters>=1.1.3",
+    "pinecone>=7.3.0",
+    "pymupdf>=2.1",
+    "python-dotenv>=1.2.4",
+]
