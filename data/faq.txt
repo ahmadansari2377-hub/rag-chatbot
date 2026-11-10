@@ -1,0 +1,17 @@
+BrewBean Coffee Co. - Frequently Asked Questions
+
+Q: Do you offer vegan options?
+A: Yes. All our drinks can be made with oat or almond milk, and our Mango Smoothie is vegan by default.
+
+Q: Can I book a cafe for a private event?
+A: Yes. Our Gulberg (Lahore) and Clifton (Karachi) branches can be booked for private events of up to 40 guests.
+Email events@brewbean.example at least 5 days in advance.
+
+Q: Do you sell gift cards?
+A: Yes, gift cards are available in PKR 2,000, PKR 5,000 and PKR 10,000 values, in-store and on the app.
+
+Q: Are you hiring?
+A: We regularly hire baristas and cafe managers. Send your CV to careers@brewbean.example.
+
+Q: Is parking available?
+A: Free parking is available at all branches except our Blue Area (Islamabad) branch.

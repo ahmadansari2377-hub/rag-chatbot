@@ -1,0 +1,14 @@
+BrewBean Coffee Co. - Company Overview
+
+BrewBean Coffee Co. is a specialty coffee company founded in 2018 in Lahore, Pakistan by Sara Malik and Usman Raza.
+The company operates 12 cafes across Lahore, Karachi and Islamabad, and also sells roasted coffee beans online.
+
+Mission: To serve ethically sourced, freshly roasted coffee and create warm community spaces.
+
+Headquarters: 45-B Gulberg III, Lahore, Pakistan.
+Employees: Approximately 180 staff members.
+Customer support email: support@brewbean.example
+Customer support phone: +92-300-0000000 (Monday to Saturday, 9 AM to 9 PM)
+
+Our coffee beans are sourced from Ethiopia, Colombia and Brazil. All beans are roasted in-house at our Lahore roastery
+every Tuesday and Friday to guarantee freshness.
